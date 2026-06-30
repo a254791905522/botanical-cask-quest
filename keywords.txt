@@ -1,0 +1,1 @@
+botanical,cask,distill,spirits,whiskey,brandy,vodka,rum,workshop,craft,offline,simulation
